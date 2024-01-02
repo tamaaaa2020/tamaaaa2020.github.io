@@ -11,7 +11,7 @@
     'subtitle':'buyung latter',
     'desc':'Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam soluta voluptates nam deleniti doloremque, rem reprehenderit? Officiis porro laboriosam necessitatibus, facere at veniam tempore ab ut, debitis, dignissimos atque ipsum!'
 }]
-var container = document.querySelector('#Project')
+var container = document.querySelector('#P')
 data.array.forEach(element => {
     container.innerHTML +=
     `<div class="project">
